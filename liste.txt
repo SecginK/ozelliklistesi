@@ -3,3 +3,4 @@ Sahibinden.com Özellikleri
 2- Ürüne özel filtreleme
 3- Kolay arayüz
 4- Ürün karşılaştırma
+5- Güvenilirlik
